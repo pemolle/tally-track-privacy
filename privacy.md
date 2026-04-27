@@ -1,6 +1,6 @@
 # Datenschutzrichtlinie für Tally Track
 
-**Stand:27. April 2026
+**Stand:** 27. April 2026
 
 ## 1. Verantwortlicher
 Peter Mollenhauer  
@@ -31,4 +31,4 @@ Während des Beta-Tests via TestFlight erhebt Apple automatisch technische Infor
 Diese Datenschutzrichtlinie kann bei Änderungen an der App angepasst werden. Die jeweils aktuelle Version ist unter dieser URL einsehbar.
 
 ## 10. Kontakt
-Bei Fragen zum Datenschutz wende dich an: [deine E-Mail-Adresse]
+Bei Fragen zum Datenschutz wende dich an: petermollenhauer@gmx.de
